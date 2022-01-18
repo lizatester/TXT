@@ -1,1 +1,8 @@
-
+Bug report:
+Title: The page shows a cup in a shoes search
+Steps to reproduce:
+1. Open site *link on site*
+2. Use the search bar to look for "shoes"
+3. Roll down the navigation bar until the "MoonMiracle Cup" product
+Expected result: Only shoes apear on the products shown
+Actual result: A cup apears on the search results
