@@ -1,0 +1,28 @@
+Skills i'll learn during testing course:
+1. Basic theory of testing
+2. Client-server model
+3. HTTP Requests Methods
+4. HTTP server response codes
+5. Structures of HTTP requests and responses
+6. What is JSON, XML
+7. API testing via Postman
+8. Removing and reading logs from an external server
+9. Charles and Fiddler
+10. Dev Tools
+11. VPN
+12. Mobile testing
+13. Feature of iOS, Android, guidelines
+14. Build iOS applications on Xcode
+15. Android Studio
+16. ADB
+17. Setting up proxy and vpn on iOS and Android
+18. Interception of mobile traffic through Charles and Fiddler on iOS and Android
+19. Command line (terminal) Linux
+20. Basics of bash scripting, automation of routine tasks on the server
+21. Access to remote servers
+22. Basics of SQL
+23. Postgres database
+24. Redis
+25. Jmeter
+26. Scrum development methodology
+27. Python
