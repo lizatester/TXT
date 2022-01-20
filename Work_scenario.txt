@@ -1,7 +1,7 @@
 Напротив каждого действия - напишите команду в GitBash
  
 
-1. Клонировать репозиторий JSON на локальный компьютер.
+1. Клонировать репозиторий TXT на локальный компьютер.
 
 git clone https://github.com/NameOfYourGitHub/NameOfRepository.git()
  
