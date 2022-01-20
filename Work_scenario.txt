@@ -6,7 +6,7 @@
 git clone https://github.com/NameOfYourGitHub/NameOfRepository.git()
  
 
-2. Внутри локального JSON создать файл “new.txt”.
+2. Внутри локального TXT создать файл “new.txt”.
 cd/c/git/NameOfRepository
 touch new.txt
  
